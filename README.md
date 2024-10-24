@@ -1,11 +1,12 @@
-# Hi there 👋, I'm Anas LOUTOU!
+## Hi there 👋, I'm Anas LOUTOU!
 
 🚀 **Software Engineer | Problem Solver | Lifelong Learner**  
 Passionate about building impactful solutions in **web development** and **data**. I enjoy collaborating on open-source projects and continuously improving my skills.
 
-## 🌱 What I’m currently learning
-- Exploring cloud platforms and DevOps practices
-- Deepening my knowledge of full-stack development
+## 💡 What I bring to the table:
+- Proficient in Java, Python, and React.
+- Enthusiastic about full-stack development and exploring cloud technologies.
+- Strong problem-solving mindset and a passion for collaborative teamwork.
 
 ## 📫 How to reach me:
 - **Email:** anasloutou20@gmail.com
@@ -13,6 +14,9 @@ Passionate about building impactful solutions in **web development** and **data*
 
 ## ⚡ Fun fact:
 When I’m not coding, I’m probably experimenting with new recipes 🍲 or diving into tech articles.
+
+## 🌍 Looking to collaborate?
+When I’m not coding, I’m always open to exciting projects and new challenges. Let’s connect!
 
 ---
 
