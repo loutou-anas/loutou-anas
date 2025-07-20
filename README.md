@@ -10,10 +10,23 @@ Passionate about turning data into actionable insights through **data storytelli
 ---
 
 ## 💡 What I bring to the table:
-- Proficient in **Python**, **SQL**, and **data visualization** tools like **Power BI**, **Tableau**, and **Excel**.
-- Skilled in **data cleaning**, **EDA**, **statistical analysis**, **machine learning**, and **dashboard development**.
-- Experienced in using libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**.
-- Familiar with deploying ML models and dashboards using **Streamlit**, **Flask**, and **Docker**.
+
+### 🧮 Data Analysis Tools
+- **Languages**: Python, SQL, R
+- **Visualization**: Power BI, Tableau, Excel, Matplotlib, Seaborn
+- **Techniques**: Data wrangling, EDA, Descriptive statistics, KPI tracking, Business dashboards
+
+### 🧠 Data Science Tools
+- **Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels
+- **ML Techniques**: Classification, Regression, Clustering (KMeans), Feature engineering
+- **NLP Tools**: TextBlob, NLTK, spaCy (basic knowledge)
+- **Model Deployment**: Streamlit, Flask, Docker, Joblib/Pickle
+
+### 🛠️ Additional Skills
+- **Version Control**: Git, GitHub
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Workflow**: Jupyter Notebooks, VS Code, Virtual Environments
+- **Cloud & Deployment**: Streamlit Cloud, Heroku (familiar), CI/CD basics
 
 ---
 
