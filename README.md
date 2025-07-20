@@ -62,6 +62,7 @@ Passionate about turning data into actionable insights through **data storytelli
 ![TextBlob](https://img.shields.io/badge/TextBlob-FFB6C1?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy)
 ![NLTK](https://img.shields.io/badge/NLTK-404040?style=flat-square)
+![Joblib](https://img.shields.io/badge/Joblib-4B8BBE?style=flat-square)
 
 ### 📦 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -72,6 +73,7 @@ Passionate about turning data into actionable insights through **data storytelli
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
