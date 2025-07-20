@@ -59,9 +59,10 @@ Passionate about turning data into actionable insights through **data storytelli
 ---
 
 ## ⚡ Fun Fact:
-When I’m not analyzing data, you’ll find me experimenting in the kitchen 🍲 or exploring the latest AI innovations 🤖.
+Outside of data, I enjoy experimenting with culinary creations 🍜 and diving into emerging trends in artificial intelligence and automation 🤖 — always learning, always building.
 
 ---
+
 
 ## 🌍 Looking to collaborate?
 I’m always open to **freelance**, **collaborative projects**, or **data storytelling opportunities**. Let’s connect and build something impactful! 🚀
