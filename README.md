@@ -9,34 +9,13 @@ Passionate about turning data into actionable insights through **data storytelli
 
 ---
 
-## 💡 What I bring to the table:
-
-### 🧮 Data Analysis Tools
-- **Languages**: Python, SQL, R
-- **Visualization**: Power BI, Tableau, Excel, Matplotlib, Seaborn
-- **Techniques**: Data wrangling, EDA, Descriptive statistics, KPI tracking, Business dashboards
-
-### 🧠 Data Science Tools
-- **Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels
-- **ML Techniques**: Classification, Regression, Clustering (KMeans), Feature engineering
-- **NLP Tools**: TextBlob, NLTK, spaCy (basic knowledge)
-- **Model Deployment**: Streamlit, Flask, Docker, Joblib/Pickle
-
-### 🛠️ Additional Skills
-- **Version Control**: Git, GitHub
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Workflow**: Jupyter Notebooks, VS Code, Virtual Environments
-- **Cloud & Deployment**: Streamlit Cloud, Heroku (familiar), CI/CD basics
-
----
-
 ## 📫 How to reach me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Anas-Loutou/pfbid02fpAJM9j8txT54AAiJQsvpYwt2eKivQ35jYMSJU32vWC1BfJb7GWmM2ENDA34vfX1l/?mibextid=ZbWKwL)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-loutou/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anas.loutou/)
-[![X Badge](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/loutou_anas)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasloutou20@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-loutou/) 
+[![X Badge](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/loutou_anas)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anas.loutou/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Anas-Loutou/pfbid02fpAJM9j8txT54AAiJQsvpYwt2eKivQ35jYMSJU32vWC1BfJb7GWmM2ENDA34vfX1l/?mibextid=ZbWKwL)
 
 ---
 
