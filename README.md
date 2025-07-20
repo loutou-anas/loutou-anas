@@ -56,6 +56,13 @@ Passionate about turning data into actionable insights through **data storytelli
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
+### 🤖 Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-999999?style=flat-square)
+![TextBlob](https://img.shields.io/badge/TextBlob-FFB6C1?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy)
+![NLTK](https://img.shields.io/badge/NLTK-404040?style=flat-square)
+
 ### 📦 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flat-square&logo=postgresql&logoColor=white)
