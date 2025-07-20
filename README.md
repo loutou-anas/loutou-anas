@@ -5,7 +5,7 @@
 </h1>
 
 🚀 **Data Analyst & Aspiring Data Scientist | Problem Solver | Lifelong Learner**  
-Passionate about turning data into actionable insights through **data storytelling**, **exploratory analysis**, and **business intelligence**. I thrive on solving real-world problems using data and always aim to deliver value with every project.from cleaning and analyzing data to modeling and deploying insights into interactive dashboards and apps.
+Passionate about turning data into actionable insights through **data storytelling**, **exploratory analysis**, and **business intelligence**. I thrive on solving real-world problems using data and always aim to deliver value with every project. From cleaning and analyzing data to modeling and deploying insights into interactive dashboards and apps.
 
 ---
 
